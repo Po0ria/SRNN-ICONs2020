@@ -1,0 +1,8 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Traceback (most recent call last):
+  File "/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized.py", line 12, in <module>
+    train_X = np.load('./SHD/data/trainX_10ms.npy')
+  File "/afs/crc.nd.edu/user/p/ptaheri/.conda/envs/default/lib/python3.9/site-packages/numpy/lib/npyio.py", line 417, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+FileNotFoundError: [Errno 2] No such file or directory: './SHD/data/trainX_10ms.npy'

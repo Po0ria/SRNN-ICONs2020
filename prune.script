@@ -1,0 +1,11 @@
+#!/bin/bash
+#$ -N YinPrune
+#$ -M ptaheri@nd.edu
+#$ -m abe
+#$ -q gpu -l gpu_card=1
+#$ -o ./logs/prune/50_20epoch/0.95
+#$ -e ./logs/prune/50_20epoch/0.95
+module load python
+conda activate default
+
+python  srnn_2layer-finalized_pruning.py --detail 50_20epoch --epochs 50 --prune_rate 0.95

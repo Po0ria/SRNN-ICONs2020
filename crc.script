@@ -1,0 +1,11 @@
+#!/bin/bash
+#$ -N Yin
+#$ -M ptaheri@nd.edu
+#$ -m abe
+#$ -q gpu -l gpu_card=1
+#$ -o ./logs/original_4ms/
+#$ -e ./logs/original_4ms/
+module load python
+conda activate default
+
+python srnn_2layer-finalized.py

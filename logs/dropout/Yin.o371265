@@ -1,0 +1,22 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:13: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_y = np.load('./SHD/data/10ms/trainY_10ms.npy').astype(np.float)
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:16: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  test_y = np.load('./SHD/data/10ms/testY_10ms.npy').astype(np.float)
+device: cuda:0
+> /afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py(273)<module>()
+-> accuracy = test(model)
+(Pdb) 
+Traceback (most recent call last):
+  File "/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py", line 273, in <module>
+    accuracy = test(model)
+  File "/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py", line 273, in <module>
+    accuracy = test(model)
+  File "/afs/crc.nd.edu/user/p/ptaheri/.conda/envs/default/lib/python3.9/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/afs/crc.nd.edu/user/p/ptaheri/.conda/envs/default/lib/python3.9/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit

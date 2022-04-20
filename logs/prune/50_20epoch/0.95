@@ -1,0 +1,73 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_pruning.py:25: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_y = np.load('./SHD/data/10ms/trainY_10ms.npy').astype(np.float)
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_pruning.py:28: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  test_y = np.load('./SHD/data/10ms/testY_10ms.npy').astype(np.float)
+dataset shape:  (8156, 100, 700)
+dataset shape:  (2264, 100, 700)
+device: cuda:0
+total :128
+total :128
+epoch:  0 . Loss:  3.2237894535064697 . Tr Accuracy:  7.03125 . Ts Accuracy:  13.28125
+total :128
+total :128
+epoch:  1 . Loss:  3.219149112701416 . Tr Accuracy:  2.34375 . Ts Accuracy:  11.71875
+total :128
+total :128
+epoch:  2 . Loss:  3.0853772163391113 . Tr Accuracy:  7.03125 . Ts Accuracy:  10.15625
+total :128
+total :128
+epoch:  3 . Loss:  3.310014247894287 . Tr Accuracy:  10.15625 . Ts Accuracy:  8.59375
+total :128
+total :128
+epoch:  4 . Loss:  3.227705478668213 . Tr Accuracy:  8.59375 . Ts Accuracy:  12.5
+total :128
+total :128
+epoch:  5 . Loss:  3.0962069034576416 . Tr Accuracy:  10.9375 . Ts Accuracy:  9.375
+total :128
+total :128
+epoch:  6 . Loss:  3.1280510425567627 . Tr Accuracy:  7.03125 . Ts Accuracy:  13.28125
+total :128
+total :128
+epoch:  7 . Loss:  3.1856234073638916 . Tr Accuracy:  7.03125 . Ts Accuracy:  10.15625
+total :128
+total :128
+epoch:  8 . Loss:  3.3701114654541016 . Tr Accuracy:  9.375 . Ts Accuracy:  14.0625
+total :128
+total :128
+epoch:  9 . Loss:  3.1307051181793213 . Tr Accuracy:  5.46875 . Ts Accuracy:  10.9375
+total :128
+total :128
+epoch:  10 . Loss:  3.2165939807891846 . Tr Accuracy:  10.9375 . Ts Accuracy:  13.28125
+total :128
+total :128
+epoch:  11 . Loss:  3.1961710453033447 . Tr Accuracy:  8.59375 . Ts Accuracy:  8.59375
+total :128
+total :128
+epoch:  12 . Loss:  2.9946727752685547 . Tr Accuracy:  5.46875 . Ts Accuracy:  10.15625
+total :128
+total :128
+epoch:  13 . Loss:  3.189077377319336 . Tr Accuracy:  9.375 . Ts Accuracy:  14.0625
+total :128
+total :128
+epoch:  14 . Loss:  3.059598445892334 . Tr Accuracy:  8.59375 . Ts Accuracy:  13.28125
+total :128
+total :128
+epoch:  15 . Loss:  2.976593017578125 . Tr Accuracy:  5.46875 . Ts Accuracy:  5.46875
+total :128
+total :128
+epoch:  16 . Loss:  3.0342695713043213 . Tr Accuracy:  9.375 . Ts Accuracy:  13.28125
+total :128
+total :128
+epoch:  17 . Loss:  3.0762362480163574 . Tr Accuracy:  8.59375 . Ts Accuracy:  11.71875
+total :128
+total :128
+epoch:  18 . Loss:  3.170494794845581 . Tr Accuracy:  10.9375 . Ts Accuracy:  8.59375
+total :128
+total :128
+epoch:  19 . Loss:  2.9861085414886475 . Tr Accuracy:  11.71875 . Ts Accuracy:  13.28125
+total :128
+ Accuracy:  10.9375

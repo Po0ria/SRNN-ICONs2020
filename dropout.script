@@ -1,0 +1,11 @@
+#!/bin/bash
+#$ -N YinDropout
+#$ -M ptaheri@nd.edu
+#$ -m abe
+#$ -q gpu -l gpu_card=1
+#$ -o ./logs/dropout/50epoch/0.28
+#$ -e ./logs/dropout/50epoch/0.28
+module load python
+conda activate default
+
+python  srnn_2layer-finalized_dropout.py --detail 50epoch --epochs 50 --drop_rate 0.28

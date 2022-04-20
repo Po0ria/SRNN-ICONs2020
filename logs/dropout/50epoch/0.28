@@ -1,0 +1,363 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:24: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_y = np.load('./SHD/data/10ms/trainY_10ms.npy').astype(np.float)
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:27: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  test_y = np.load('./SHD/data/10ms/testY_10ms.npy').astype(np.float)
+device: cuda:0
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  0 . Loss:  2.0590717792510986 . Tr Accuracy:  35.9375 . Ts Accuracy:  31.25
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  1 . Loss:  1.4084442853927612 . Tr Accuracy:  53.90625 . Ts Accuracy:  53.90625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  2 . Loss:  1.355728030204773 . Tr Accuracy:  58.59375 . Ts Accuracy:  50.0
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  3 . Loss:  0.8403220176696777 . Tr Accuracy:  75.0 . Ts Accuracy:  67.1875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  4 . Loss:  1.1031607389450073 . Tr Accuracy:  78.90625 . Ts Accuracy:  69.53125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  5 . Loss:  0.6919966340065002 . Tr Accuracy:  80.46875 . Ts Accuracy:  75.78125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  6 . Loss:  0.6549522876739502 . Tr Accuracy:  80.46875 . Ts Accuracy:  73.4375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  7 . Loss:  0.5334149599075317 . Tr Accuracy:  81.25 . Ts Accuracy:  73.4375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  8 . Loss:  0.40640029311180115 . Tr Accuracy:  83.59375 . Ts Accuracy:  76.5625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  9 . Loss:  0.5206187963485718 . Tr Accuracy:  87.5 . Ts Accuracy:  75.0
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  10 . Loss:  0.3902580142021179 . Tr Accuracy:  91.40625 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  11 . Loss:  0.6011953353881836 . Tr Accuracy:  87.5 . Ts Accuracy:  80.46875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  12 . Loss:  0.37423083186149597 . Tr Accuracy:  95.3125 . Ts Accuracy:  84.375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  13 . Loss:  0.23840473592281342 . Tr Accuracy:  90.625 . Ts Accuracy:  77.34375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  14 . Loss:  0.33302947878837585 . Tr Accuracy:  90.625 . Ts Accuracy:  76.5625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  15 . Loss:  0.23128187656402588 . Tr Accuracy:  86.71875 . Ts Accuracy:  79.6875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  16 . Loss:  0.16822858154773712 . Tr Accuracy:  96.09375 . Ts Accuracy:  79.6875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  17 . Loss:  0.3740636706352234 . Tr Accuracy:  90.625 . Ts Accuracy:  78.125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  18 . Loss:  0.30270206928253174 . Tr Accuracy:  92.96875 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  19 . Loss:  0.13216666877269745 . Tr Accuracy:  92.1875 . Ts Accuracy:  85.15625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  20 . Loss:  0.2664347290992737 . Tr Accuracy:  96.09375 . Ts Accuracy:  78.90625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  21 . Loss:  0.11563470214605331 . Tr Accuracy:  93.75 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  22 . Loss:  0.23953436315059662 . Tr Accuracy:  90.625 . Ts Accuracy:  82.8125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  23 . Loss:  0.18821333348751068 . Tr Accuracy:  92.96875 . Ts Accuracy:  84.375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  24 . Loss:  0.13714171946048737 . Tr Accuracy:  95.3125 . Ts Accuracy:  84.375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  25 . Loss:  0.0353844128549099 . Tr Accuracy:  88.28125 . Ts Accuracy:  79.6875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  26 . Loss:  0.08983545005321503 . Tr Accuracy:  93.75 . Ts Accuracy:  80.46875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  27 . Loss:  0.16277728974819183 . Tr Accuracy:  93.75 . Ts Accuracy:  82.03125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  28 . Loss:  0.19648317992687225 . Tr Accuracy:  96.09375 . Ts Accuracy:  82.8125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  29 . Loss:  0.2797839343547821 . Tr Accuracy:  94.53125 . Ts Accuracy:  84.375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  30 . Loss:  0.043942078948020935 . Tr Accuracy:  94.53125 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  31 . Loss:  0.1851157695055008 . Tr Accuracy:  96.09375 . Ts Accuracy:  80.46875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  32 . Loss:  0.1551273912191391 . Tr Accuracy:  94.53125 . Ts Accuracy:  81.25
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  33 . Loss:  0.12950697541236877 . Tr Accuracy:  96.875 . Ts Accuracy:  78.125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  34 . Loss:  0.07575013488531113 . Tr Accuracy:  96.09375 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  35 . Loss:  0.08722139149904251 . Tr Accuracy:  96.875 . Ts Accuracy:  82.8125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  36 . Loss:  0.21938066184520721 . Tr Accuracy:  95.3125 . Ts Accuracy:  81.25
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  37 . Loss:  0.24897894263267517 . Tr Accuracy:  97.65625 . Ts Accuracy:  84.375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  38 . Loss:  0.08431459218263626 . Tr Accuracy:  91.40625 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  39 . Loss:  0.10806845873594284 . Tr Accuracy:  95.3125 . Ts Accuracy:  78.125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  40 . Loss:  0.08274353295564651 . Tr Accuracy:  94.53125 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  41 . Loss:  0.1695736050605774 . Tr Accuracy:  96.875 . Ts Accuracy:  80.46875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  42 . Loss:  0.1472477912902832 . Tr Accuracy:  92.1875 . Ts Accuracy:  82.8125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  43 . Loss:  0.05164017528295517 . Tr Accuracy:  95.3125 . Ts Accuracy:  78.90625
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  44 . Loss:  0.0929645225405693 . Tr Accuracy:  93.75 . Ts Accuracy:  85.9375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  45 . Loss:  0.1784897893667221 . Tr Accuracy:  95.3125 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  46 . Loss:  0.1371699571609497 . Tr Accuracy:  93.75 . Ts Accuracy:  81.25
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  47 . Loss:  0.0929093286395073 . Tr Accuracy:  94.53125 . Ts Accuracy:  81.25
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  48 . Loss:  0.14546580612659454 . Tr Accuracy:  96.09375 . Ts Accuracy:  82.03125
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+epoch:  49 . Loss:  0.09248744696378708 . Tr Accuracy:  96.09375 . Ts Accuracy:  83.59375
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+total :128
+ Accuracy:  81.25

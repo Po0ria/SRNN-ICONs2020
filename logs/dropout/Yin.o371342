@@ -1,0 +1,6965 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:13: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_y = np.load('./SHD/data/10ms/trainY_10ms.npy').astype(np.float)
+/afs/crc.nd.edu/user/p/ptaheri/Private/benchmarkSNN/yin_srnn/SRNN-ICONs2020/srnn_2layer-finalized_dropout.py:16: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  test_y = np.load('./SHD/data/10ms/testY_10ms.npy').astype(np.float)
+device: cuda:0
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  0 . Loss:  2.0190796852111816 . Tr Accuracy:  36.71875 . Ts Accuracy:  37.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  1 . Loss:  1.0111374855041504 . Tr Accuracy:  66.40625 . Ts Accuracy:  67.1875
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  2 . Loss:  1.0418113470077515 . Tr Accuracy:  74.21875 . Ts Accuracy:  75.78125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  3 . Loss:  0.6128592491149902 . Tr Accuracy:  85.9375 . Ts Accuracy:  82.03125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  4 . Loss:  0.7640889883041382 . Tr Accuracy:  91.40625 . Ts Accuracy:  82.03125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  5 . Loss:  0.33346009254455566 . Tr Accuracy:  90.625 . Ts Accuracy:  81.25
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  6 . Loss:  0.351898193359375 . Tr Accuracy:  92.1875 . Ts Accuracy:  83.59375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  7 . Loss:  0.2564418911933899 . Tr Accuracy:  94.53125 . Ts Accuracy:  85.15625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  8 . Loss:  0.20760148763656616 . Tr Accuracy:  95.3125 . Ts Accuracy:  85.15625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  9 . Loss:  0.1677551120519638 . Tr Accuracy:  93.75 . Ts Accuracy:  83.59375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  10 . Loss:  0.07328911125659943 . Tr Accuracy:  96.09375 . Ts Accuracy:  82.8125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  11 . Loss:  0.20480988919734955 . Tr Accuracy:  96.09375 . Ts Accuracy:  89.84375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  12 . Loss:  0.2429371476173401 . Tr Accuracy:  97.65625 . Ts Accuracy:  85.15625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  13 . Loss:  0.02048850618302822 . Tr Accuracy:  97.65625 . Ts Accuracy:  85.15625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  14 . Loss:  0.08092816174030304 . Tr Accuracy:  98.4375 . Ts Accuracy:  85.9375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  15 . Loss:  0.033010680228471756 . Tr Accuracy:  98.4375 . Ts Accuracy:  84.375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  16 . Loss:  0.10485909134149551 . Tr Accuracy:  97.65625 . Ts Accuracy:  82.03125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  17 . Loss:  0.2041490226984024 . Tr Accuracy:  98.4375 . Ts Accuracy:  83.59375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  18 . Loss:  0.05248570069670677 . Tr Accuracy:  97.65625 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  19 . Loss:  0.04422786831855774 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  20 . Loss:  0.021472599357366562 . Tr Accuracy:  99.21875 . Ts Accuracy:  83.59375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  21 . Loss:  0.0074046822264790535 . Tr Accuracy:  99.21875 . Ts Accuracy:  85.9375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  22 . Loss:  0.026083381846547127 . Tr Accuracy:  100.0 . Ts Accuracy:  90.625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  23 . Loss:  0.01044525671750307 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  24 . Loss:  0.017674844712018967 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  25 . Loss:  0.004864889197051525 . Tr Accuracy:  99.21875 . Ts Accuracy:  88.28125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  26 . Loss:  0.007200306747108698 . Tr Accuracy:  99.21875 . Ts Accuracy:  89.0625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  27 . Loss:  0.005471284035593271 . Tr Accuracy:  99.21875 . Ts Accuracy:  85.9375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  28 . Loss:  0.023718390613794327 . Tr Accuracy:  100.0 . Ts Accuracy:  84.375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  29 . Loss:  0.009091618470847607 . Tr Accuracy:  98.4375 . Ts Accuracy:  84.375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  30 . Loss:  0.0021321927197277546 . Tr Accuracy:  100.0 . Ts Accuracy:  84.375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  31 . Loss:  0.011018200777471066 . Tr Accuracy:  100.0 . Ts Accuracy:  82.8125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  32 . Loss:  0.014223606325685978 . Tr Accuracy:  100.0 . Ts Accuracy:  82.8125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  33 . Loss:  0.0027630338445305824 . Tr Accuracy:  100.0 . Ts Accuracy:  89.0625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  34 . Loss:  0.004261058755218983 . Tr Accuracy:  100.0 . Ts Accuracy:  89.0625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  35 . Loss:  0.0037828681524842978 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  36 . Loss:  0.04828467220067978 . Tr Accuracy:  100.0 . Ts Accuracy:  82.03125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  37 . Loss:  0.0983244851231575 . Tr Accuracy:  99.21875 . Ts Accuracy:  85.9375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  38 . Loss:  0.003552459180355072 . Tr Accuracy:  99.21875 . Ts Accuracy:  89.84375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  39 . Loss:  0.043013982474803925 . Tr Accuracy:  100.0 . Ts Accuracy:  86.71875
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  40 . Loss:  0.016200155019760132 . Tr Accuracy:  100.0 . Ts Accuracy:  85.15625
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  41 . Loss:  0.002759335795417428 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  42 . Loss:  0.0026584237348288298 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  43 . Loss:  0.0048559303395450115 . Tr Accuracy:  100.0 . Ts Accuracy:  85.9375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  44 . Loss:  0.024142887443304062 . Tr Accuracy:  100.0 . Ts Accuracy:  83.59375
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  45 . Loss:  0.03398789092898369 . Tr Accuracy:  99.21875 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  46 . Loss:  0.0022315497044473886 . Tr Accuracy:  100.0 . Ts Accuracy:  87.5
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  47 . Loss:  0.0015714206965640187 . Tr Accuracy:  100.0 . Ts Accuracy:  82.8125
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  48 . Loss:  0.00926131010055542 . Tr Accuracy:  100.0 . Ts Accuracy:  86.71875
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+this is seq_num100
+
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+epoch:  49 . Loss:  0.01113216020166874 . Tr Accuracy:  100.0 . Ts Accuracy:  86.71875
+torch.Size([128, 100, 700])
+torch.Size([128, 100, 700])
+this is seq_num100
+
+total :128
+ Accuracy:  85.9375
